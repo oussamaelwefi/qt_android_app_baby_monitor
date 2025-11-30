@@ -6,4 +6,5 @@ The app is using a machine learning model to predict wether the baby is in good 
 It is using the onnx runtime built for android, you can find it here : 
 You can find the training notebook here : 
 This is how the app looks like : 
-![Alt text for the image](./images/584787959_1582411672783812_4624606882635581770_n.jpg)
+![the form](./images/584787959_1582411672783812_4624606882635581770_n.jpg)
+![status ok](./images/588090087_1555286062455952_7189427724099501655_n.jpg) ![status at risk](./images/588569949_1039821498270697_8904180359565477016_n.jpg)
