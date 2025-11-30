@@ -2,6 +2,8 @@
   <img src="./images/Android_robot.svg.png" alt="android logo" width="200"/>
   <img src="./images/Qt_logo_2016.svg.png" alt="qt logo" width="200"/>
   <img src="./images/1200px-ONNX_logo_main.png" alt="onnx logo" width="200"/>
+    <img src="./images/bluetooth_low_energy.png" alt="ble image" width="200"/>
+  <img src="./images/esp32-cam.jpg" alt="esp32 image" width="200"/>
 </div>
 <h1> Welcome to this Android app built with qt. </h1>
 <h3>This app is for monitoring data in real time coming from an esp32-cam using bluetooth low energy. And predicts health risks using a machine learning model executed using onnx runtime built for android.</h3>
