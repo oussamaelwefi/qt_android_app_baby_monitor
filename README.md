@@ -4,6 +4,7 @@
   <img src="./images/1200px-ONNX_logo_main.png" alt="onnx logo" width="200"/>
 </div>
 <h1> Welcome to this Android app built with qt. </h1>
+<h3>This app is for monitoring data in real time coming from an esp32-cam using bluetooth low energy. And predicts health risks using a machine learning model executed using onnx runtime built for android.</h3>
 The gui is built using only c++. We have two interfaces (giuwindow and fff classes). <br>
 The app is communicating with an esp32-cam using ble (bluetooth low energy) technology.<br>
 The esp32-cam gets the sensors information from an esp8266, you can find the code for both boards here: <br>
