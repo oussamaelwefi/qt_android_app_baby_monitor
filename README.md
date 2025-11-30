@@ -12,7 +12,7 @@ The app is communicating with an esp32-cam using ble (bluetooth low energy) tech
 The esp32-cam gets the sensors information from an esp8266, you can find the code for both boards here: <br>
 The app is using a machine learning model to predict wether the baby is in good health or not.<br>
 It is using the onnx runtime built for android, you can find it here : https://github.com/oussamaelwefi/onnx_runtime_for_android<br>
-You can find the training notebook here : https://github.com/oussamaelwefi/esp32_ble_qt/tree/main<br>
+You can find the training notebook, joblib file, onnx file, conversion / test files and esp32/esp8266 code here : https://github.com/oussamaelwefi/esp32_ble_qt/tree/main<br>
 This is how the app looks like : <br>
 <div align="center">
   <img src="./images/584787959_1582411672783812_4624606882635581770_n.jpg" alt="the form" width="400"/>
